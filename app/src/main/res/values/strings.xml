@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BASKETBALL COUNTER</string>
+    <string name="_0">0</string>
+    <string name="zero">0</string>
+    <string name="team_a">TEAM A</string>
+    <string name="_3_points">3 points</string>
+    <string name="_2_points">2 points</string>
+    <string name="_1_point">1 point</string>
+    <string name="team_b">TEAM B</string>
+    <string name="point3">3 points</string>
+    <string name="point2">2 points</string>
+    <string name="point1">1 point</string>
+</resources>
